@@ -1,2 +1,2 @@
 # ASCII-Arts
-ASCII Arts 
+by AricChong12
